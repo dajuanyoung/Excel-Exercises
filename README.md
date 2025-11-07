@@ -3,7 +3,7 @@ Collection of Excel Exercises for practice and recall - each has data and then a
 
 1. Addresses_Presidents
      - Formulas (Parsing Through Strings)
-       . Proper
+       - Proper
        . Trim
        . Mid
        . Find
@@ -11,7 +11,8 @@ Collection of Excel Exercises for practice and recall - each has data and then a
        . Left
        . Nested IFS
 2. Birth Work
-   - Formulas 
+   - Formulas
+     . Tex
 3. Employee Address
    - Formulas 
 4. Employee Sales Orders
