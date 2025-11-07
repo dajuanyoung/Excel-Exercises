@@ -12,18 +12,46 @@ Collection of Excel Exercises for practice and recall - each has data and then a
        - Nested IFS
 2. Birth Work
    - Formulas
-     - Tex
+     - Text
+     - DATEDIF
+     - TODAY
+     - VLOOKUP
+     - VALUE
+     - MID
+     - FIND
 3. Employee Address
-   - Formulas 
+   - Formulas
+      - COUNTIF
+      - COUNTIFS
+      - COUNTA
 4. Employee Sales Orders
-   - Formulas 
+   - Formulas
+     - VLOOKUP
+     - INDEX
+     - MATCH
+     - CONCATENATE (&)
 5. Financial Functions
-    - Formulas 
+    - Formulas
+      - RATE
+      - IF
+      - AND
+      - COUNTIF
+      - 
 6. Forecasting Linear Regression
     - Formulas 
 7. Home Sales
-    - Formulas 
+    - Formulas
+      - AVERAGEIF
+      - SUMIF
+      - COUNTIF
+      - COUNTIFS
+      - AVERAGEIFS
 8. Pivot Tables
     - Formulas 
 9. Projects_DownPayment_Retirement
     - Formulas 
+     - NPV
+     - IRR
+     - PV
+     - FV
+     - PMT
