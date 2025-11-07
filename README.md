@@ -4,15 +4,15 @@ Collection of Excel Exercises for practice and recall - each has data and then a
 1. Addresses_Presidents
      - Formulas (Parsing Through Strings)
        - Proper
-       . Trim
-       . Mid
-       . Find
-       . Value
-       . Left
-       . Nested IFS
+       - Trim
+       - Mid
+       - Find
+       - Value
+       - Left
+       - Nested IFS
 2. Birth Work
    - Formulas
-     . Tex
+     - Tex
 3. Employee Address
    - Formulas 
 4. Employee Sales Orders
