@@ -2,8 +2,14 @@
 Collection of Excel Exercises for practice and recall - each has data and then associated problems for solving
 
 1. Addresses_Presidents
-     - Formulas
-       . 
+     - Formulas (Parsing Through Strings)
+       . Proper
+       . Trim
+       . Mid
+       . Find
+       . Value
+       . Left
+       . Nested IFS
 2. Birth Work
    - 
 3. Employee Address
