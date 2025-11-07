@@ -3,11 +3,18 @@ Collection of Excel Exercises for practice and recall - each has data and then a
 
 1. Addresses_Presidents
      - 
-3. Birth Work
-4. Employee Address
-5. Employee Sales Orders
-6. Financial Functions
-7. Forecasting Linear Regression
-8. Home Sales
-9. Pivot Tables
-10. Projects_DownPayment_Retirement
+2.. Birth Work
+   - 
+3. Employee Address
+   - 
+4. Employee Sales Orders
+   - 
+5. Financial Functions
+    -
+6. Forecasting Linear Regression
+    -
+7. Home Sales
+    -
+8. Pivot Tables
+    -
+9. Projects_DownPayment_Retirement
