@@ -3,7 +3,7 @@ Collection of Excel Exercises for practice and recall - each has data and then a
 
 1. Addresses_Presidents
      - 
-2.. Birth Work
+2. Birth Work
    - 
 3. Employee Address
    - 
